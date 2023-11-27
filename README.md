@@ -27,6 +27,8 @@ Each project showcases the power of GSAP to elevate web experiences through flui
 Welcome to the world of GSAP animations! This project showcases the power and versatility of the GreenSock Animation Platform (GSAP). From smooth page transitions to interactive project items, this project serves as an inspiring example of what GSAP can bring to your web development projects.
 
 ![Screenshot 2023-11-27 at 10 59 48 (1)](https://github.com/srikavya26/Gsap-Projects/assets/95865936/909b6616-668f-4192-b1e1-4bf8933afddd)
+![Image 27-11-23 at 11 43](https://github.com/srikavya26/Gsap-Projects/assets/95865936/6f3bd88d-7de9-423b-a440-f79190b3c7b0)
+
 
 
 
