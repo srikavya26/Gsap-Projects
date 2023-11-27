@@ -6,7 +6,8 @@ Explore a collection of four GSAP projects:
 2. **Hover Animation:** Engaging user interactions with captivating hover effects.
 3. **Text Animation:** Creative text animation that enhance content presentation.
 4. **Landing Page Animation:** Seamless and visually appealing transition for landing page.
-
+- Check out Code Pen link for the above projects : https://codepen.io/collection/ZMmNxe.
+  
 Each project showcases the power of GSAP to elevate web experiences through fluid animations and interactive elements. Dive into the world of GreenSock Animation Platform and bring your websites to life!
 
 
