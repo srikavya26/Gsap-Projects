@@ -1,4 +1,14 @@
 # GSAP Animation Showcase
+## GSAP (GreenSock Animation Platform)
+
+This project leverages the power of [GSAP](https://greensock.com/gsap/) for smooth and efficient animations. GSAP is a robust JavaScript animation library that simplifies the process of creating engaging and high-performance animations for the web. With GSAP, you can easily enhance the user experience by adding fluid and visually appealing animations to your projects.
+
+### Why GSAP?
+- **Ease of Use**: GSAP provides a simple and intuitive API, making it accessible for both beginners and experienced developers.
+- **Performance**: It is optimized for performance, ensuring smooth animations even on complex web pages.
+- **Versatility**: GSAP supports a wide range of animation types, from simple transitions to complex timeline-based sequences.
+
+To learn more about GSAP and explore its features, visit the [GSAP official documentation](https://greensock.com/docs/).
 
 Explore a collection of four GSAP projects:
 
